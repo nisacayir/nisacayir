@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 **Software Engineering** student at **Yeditepe University**  
+- 🎓 **Software Development** student at **Yeditepe University**  
 - 🛠️ Currently working on **microservices with Spring Boot** and **web automation with Selenium**  
 - 💻 Passionate about **data science**, **machine learning**, and **e-commerce platforms**  
 - 🎨 Skilled in **UI/UX design**, creating seamless and user-friendly interfaces with **Figma**  
