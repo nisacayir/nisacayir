@@ -15,7 +15,7 @@
 
 ### 🧠 What I'm Learning
 - 🌱 Expanding my skills in:
-  - **Advanced Python**: Building automation and developing data-driven solutions  
+  - **Python**: Building automation and developing data-driven solutions  
   - **Spring Boot**: Developing microservices-based applications  
   - **Machine Learning**: Applying AI to improve decision-making processes  
   - **Selenium**: Crafting web automation tools  
