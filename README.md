@@ -45,6 +45,6 @@
 ---
 
 ### 📈 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisacayir&" alt="nisacayir"](https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nisacayir&theme=rose" alt="GitHub Streak") /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nisacayir&theme=rose" alt="GitHub Streak" /></a>
 
 ---
